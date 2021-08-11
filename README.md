@@ -1,5 +1,5 @@
 # go_new
-下のYoutube見た。  
+下記のYoutubeを見ました。  
 [はじめてのGolang Part2 Webフレームワーク Gin 後編](https://www.youtube.com/watch?v=SAxXyDK-UTo)
 
 初めてのGo&GCP Computer Engineなのでお手柔らかにお願いします🥺
