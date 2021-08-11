@@ -9,5 +9,5 @@
 {"message":"pong"}を返すだけ  
 http://34.97.121.251/ping
 
-Todoリスト
+Todoリスト  
 http://34.97.121.251/todo
